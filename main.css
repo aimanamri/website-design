@@ -1,0 +1,21 @@
+svg,body{
+    overflow: visible;
+    background: #202123;
+    text-align: center;
+    width:100%;
+  }
+
+  a{
+    color : white;
+    text-decoration: underline solid rgb(241, 241, 241);
+  }
+
+  h2{
+    font-size: 2.5em;
+    font-weight: bold;
+    color: #fff;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-transform: uppercase;
+    text-decoration: underline solid rgb(32, 84, 255);
+  }
