@@ -7,7 +7,7 @@ svg,body{
 
   a{
     color : white;
-    text-decoration: underline solid rgb(241, 241, 241);
+    text-decoration: none;
   }
 
   h2{
