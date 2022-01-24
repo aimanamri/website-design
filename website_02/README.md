@@ -1,5 +1,5 @@
 # website_02
-
+- Link : https://aimanamri.github.io/website-design/website_02/index.html
 - Simple page built using HTML,SASS(CSS) and a little bit of JavaScript. Following the tutorial on [Youtube](https://www.youtube.com/watch?v=D-h8L5hgW-w&ab_channel=DesignCourse) by DesignCourse.
 - Added a simple PHP script to send the form details to LOCAL SQL database.
 ## Comments
